@@ -20,4 +20,8 @@
 - Apresentação do Total: Exibir o total de doações em uma interface clara.  
 ### Armazenamento de Informações de Doações:  
 - Banco de Dados ou Arquivo Texto: Armazenar todas as informações sobre as doações em um banco de dados ou arquivo de texto.  
-- Recuperação de Informações: Permitir a recuperação das informações de doações para análise posterior.  
+- Recuperação de Informações: Permitir a recuperação das informações de doações para análise posterior.
+
+## 3. Critica à IA:  
+#### A Inteligência artifical 'ARIA' demonstrou ser eficaz para identificar requisitos funcionais do enunciado que lhe fora fornecido. No entento, existem algumas áreas onde precisa de aprimoramento:  
+- Precisão: Embora os requisitos funcionais identificados pela IA sejam precisos, eles são apresentados num formato simples. Para maior clareza e facilidade de compreensão, os requisitos devem ser expressos de forma mais estruturada, usando técnicas como Especificação de Requisitos Baseada em Casos de Uso (URBS) ou Linguagem de Modelagem de Requisitos (RML).

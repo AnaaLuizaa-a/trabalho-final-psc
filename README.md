@@ -2,7 +2,7 @@
 
 ## Dupla  
 ### Ana Luiza Mattos de Carvalho  
-### Anna Clara Armond
+### Anna Clara de Pinho Armond Cassimiro
 
 ## 1. Proposta de Problema:
 ### Sistema de gerenciamento de doações. Este sistema seria projetado para **ajudar as vítimas de uma enchente** no Rio Grande do Sul. O sistema deve ser capaz de realizar as seguintes funções:  

@@ -25,3 +25,34 @@
 ## 3. Critica à IA:  
 #### A Inteligência artifical 'ARIA' demonstrou ser eficaz para identificar requisitos funcionais do enunciado que lhe fora fornecido. No entento, existem algumas áreas onde precisa de aprimoramento:  
 - Precisão: Embora os requisitos funcionais identificados pela IA sejam precisos, eles são apresentados num formato simples. Para maior clareza e facilidade de compreensão, os requisitos devem ser expressos de forma mais estruturada, usando técnicas como Especificação de Requisitos Baseada em Casos de Uso (URBS) ou Linguagem de Modelagem de Requisitos (RML).
+- Justificativa: A IA não forneceu justificativa para os requisitos funcionais identificados. Incluir referências aos livros da bibliografia do curso ou a outras fontes confiáveis fortaleceria a análise e demonstraria uma compreensão mais profunda dos princípios de engenharia de requisitos.
+
+## 4. Diagrama de Classes:  
+#### Doador:  
+-id_doador    
+-nome    
+-email    
+-telefone  
++CadastrarDoador()  
++AlterarDadosDoador()  
++BuscarDoador()  
++ListarDoadores()  
+   
+ ##### Doação:             
+-id_doacao            
+-id_doador        
+-tipo_doacao             
+-quantidade         
+-data_doacao          
++CadastrarDoacao()        
++AlterarDadosDoacao()   
++BuscarDoacao()         
++ListarDoacoes()        
++CalcularTotalDoacoes()  
+
+#### TotalDoações:  
+-totaldoacoes  
++ObterTotalDoacoes()  
+
+
+
